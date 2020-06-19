@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" café"</string>
+    <string name="quantity">quantité</string>
+    <string name="button1">confirmer</string>
+    <string name="price">" prix"</string>
+    <string name="thank_you">Je vous remercie</string>
+    <string name="Order">commande</string>
+    <string name="order_summary">" Récapitulatif de la commande"</string>
+    <string name="whipped_cream">crème fouettée</string>
+    <string name="toppings">garnitures</string>
+    <string name="enter_your_name">entrez votre nom</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="welcome">Bienvenue</string>
+</resources>
